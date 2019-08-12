@@ -1,11 +1,19 @@
-## 准备工作
+## 使用手册
+* 快速部署
+    * [安装、卸载](https://github.com/vernesong/OpenClash/wiki/安装)
+    * [界面介绍](https://github.com/vernesong/OpenClash/wiki/运行状态)
+    * [全局设置](https://github.com/vernesong/OpenClash/wiki/全局设置)
+    * [订阅设置](https://github.com/vernesong/OpenClash/wiki/订阅设置)
+    * [配置文件](https://github.com/vernesong/OpenClash/wiki/配置文件)
+
+## 项目构建
 
 * 插件编译、安装、卸载
     * [编译](https://github.com/vernesong/OpenClash/wiki/编译)
     * [安装、卸载](https://github.com/vernesong/OpenClash/wiki/安装)
 
 
-## 开始使用
+## 界面介绍
 
 * 运行状态页面
     * [界面介绍](https://github.com/vernesong/OpenClash/wiki/运行状态)
