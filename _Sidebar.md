@@ -26,3 +26,10 @@
     * [版本更新](https://github.com/vernesong/OpenClash/wiki/版本更新)
 * 配置文件页面
     * [配置文件](https://github.com/vernesong/OpenClash/wiki/配置文件)
+
+
+## FAQ
+* [Fake-IP、Redir-Host模式选择](https://github.com/vernesong/OpenClash/wiki/全局设置)
+* [DNS服务器的选择](https://github.com/vernesong/OpenClash/wiki/DNS设置)
+
+
