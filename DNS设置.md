@@ -14,6 +14,24 @@
 
 ![](https://github.com/vernesong/OpenClash/raw/master/img/set9.png)
 
+###
+> Fake-IP（增强）模式推荐DNS设置
+```
+  nameserver:
+  - 114.114.114.114
+  - 119.29.29.29
+```
+> Redir-Host（兼容）模式推荐DNS设置
+```
+  nameserver:
+  - 114.114.114.114
+  - 119.29.29.29
+  fallback:
+  - tls://1.1.1.1:853
+  - tcp://1.1.1.1:53
+  - tcp://208.67.222.222:443
+  - tls://dns.google
+```
 ***
 
 * IPV6类型DNS解析：默认关闭，Clash支持进行DNS的`IPV4/IPV6`双栈查询，如你拥有公网IPV6地址并在内网配置了NAT，可以启用此项。
