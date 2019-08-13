@@ -7,7 +7,11 @@
 
 * 兼容 Shadowsocks、Vmess、Socks5、HTTP(S) 等协议，不支持 ShadowsocksR，根据灵活的规则配置实现流量策略代理
 
-* 您在使用过程中遇到任何功能问题，请先查阅本wiki，如仍没有得到满意答案，可以提交issues向作者咨询
+* 您在使用过程中遇到任何功能问题，请先查阅本wiki，如仍没有得到满意答案，可以提交issues咨询
+
+* 作者：vernesong
+***
+> 本手册介绍的部分工作原理同样适用于目前使用Clash内核的其他平台和类似软件
 
 * [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg) : A Windows GUI based on Clash
 * [clashX](https://github.com/yichengchen/clashX) : A rule based custom proxy with GUI for Mac base on clash
