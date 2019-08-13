@@ -1,5 +1,5 @@
 ## 使用手册
-* 快速上手
+* 首次使用
     * [安装、卸载](https://github.com/vernesong/OpenClash/wiki/安装)
     * [界面介绍](https://github.com/vernesong/OpenClash/wiki/运行状态)
     * [全局设置](https://github.com/vernesong/OpenClash/wiki/全局设置)
