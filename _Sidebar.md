@@ -32,7 +32,8 @@
 
 
 ## FAQ
-* [Fake-IP、Redir-Host模式选择](https://github.com/vernesong/OpenClash/wiki/全局设置)
-* [DNS服务器的选择](https://github.com/vernesong/OpenClash/wiki/DNS设置)
+* 常见疑问
+    * [Fake-IP、Redir-Host模式选择](https://github.com/vernesong/OpenClash/wiki/全局设置)
+    * [DNS服务器的选择](https://github.com/vernesong/OpenClash/wiki/DNS设置)
 
 
