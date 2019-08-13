@@ -8,8 +8,9 @@
 
 ## 项目构建
 
-* 插件编译、安装、卸载
+* 插件编译
     * [编译](https://github.com/vernesong/OpenClash/wiki/编译)
+* 插件安装、卸载
     * [安装、卸载](https://github.com/vernesong/OpenClash/wiki/安装)
 
 
