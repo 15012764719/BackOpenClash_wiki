@@ -24,6 +24,8 @@
     * [外部控制](https://github.com/vernesong/OpenClash/wiki/外部控制)
     * [订阅设置](https://github.com/vernesong/OpenClash/wiki/订阅设置)
     * [版本更新](https://github.com/vernesong/OpenClash/wiki/版本更新)
+    * [SOCKS5、HTTP(S)认证信息](https://github.com/vernesong/OpenClash/wiki/SOCKS5、HTTP(S)认证信息)
+    * [自定义Hosts](https://github.com/vernesong/OpenClash/wiki/自定义Hosts)
 * 配置文件页面
     * [配置文件](https://github.com/vernesong/OpenClash/wiki/配置文件)
 
