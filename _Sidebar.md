@@ -36,5 +36,5 @@
     * [Fake-IP、Redir-Host模式选择](https://github.com/vernesong/OpenClash/wiki/全局设置)
     * [DNS服务器的选择](https://github.com/vernesong/OpenClash/wiki/DNS设置)
     * [网络连接异常时排查原因](https://github.com/vernesong/OpenClash/wiki/网络连接异常时排查原因)
-    * Fake-IP模式下ICMP、NTP、DDNS等服务异常，请尝试配置 [DNS高级设置](https://github.com/vernesong/OpenClash/wiki/网络连接异常时排查原因)
+    * Fake-IP模式下ICMP、NTP、DDNS等服务异常，请尝试配置 [DNS高级设置](https://github.com/vernesong/OpenClash/wiki/DNS设置)
 
