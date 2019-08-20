@@ -11,7 +11,7 @@
 
 * 作者：vernesong
 ***
-> 本手册介绍的部分工作原理同样适用于目前使用Clash内核的其他平台和类似软件
+> 本手册介绍的部分工作原理同样适用于目前使用Clash内核的其他平台类似软件
 
 * [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg) : A Windows GUI based on Clash
 * [clashX](https://github.com/yichengchen/clashX) : A rule based custom proxy with GUI for Mac base on clash
