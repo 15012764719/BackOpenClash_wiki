@@ -18,8 +18,8 @@
 
 * 运行状态页面
     * [界面介绍](https://github.com/vernesong/OpenClash/wiki/运行状态)
-* 接管设置页面
-    * [全局设置](https://github.com/vernesong/OpenClash/wiki/全局设置)
+* 全局设置页面
+    * [常规设置](https://github.com/vernesong/OpenClash/wiki/全局设置)
     * [DNS设置](https://github.com/vernesong/OpenClash/wiki/DNS设置)
     * [规则设置（访问控制）](https://github.com/vernesong/OpenClash/wiki/规则设置（访问控制）)
     * [外部控制](https://github.com/vernesong/OpenClash/wiki/外部控制)
