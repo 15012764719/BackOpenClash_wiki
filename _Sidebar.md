@@ -38,7 +38,7 @@
 
 ## FAQ
 * 常见疑问
-    * [订阅仅更新节点信息-启用保留配置选项、或者使用代理集](https://github.com/vernesong/OpenClash/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%92%8C%E7%AD%96%E7%95%A5%E7%BB%84%E7%AE%A1%E7%90%86)
+    * 订阅仅更新节点信息[启用保留配置选项、或者使用代理集](https://github.com/vernesong/OpenClash/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%92%8C%E7%AD%96%E7%95%A5%E7%BB%84%E7%AE%A1%E7%90%86)
     * [Fake-IP、Redir-Host模式选择](https://github.com/vernesong/OpenClash/wiki/常规设置)
     * [DNS服务器的选择](https://github.com/vernesong/OpenClash/wiki/DNS设置)
     * [网络连接异常时排查原因](https://github.com/vernesong/OpenClash/wiki/网络连接异常时排查原因)
