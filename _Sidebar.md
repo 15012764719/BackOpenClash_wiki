@@ -18,16 +18,19 @@
 
 * 运行状态页面
     * [界面介绍](https://github.com/vernesong/OpenClash/wiki/运行状态)
+* 服务器与策略组管理页面
+* 游戏规则与策略组管理页面
 * 全局设置页面
     * [常规设置](https://github.com/vernesong/OpenClash/wiki/常规设置)
     * [DNS设置](https://github.com/vernesong/OpenClash/wiki/DNS设置)
     * [规则设置（访问控制）](https://github.com/vernesong/OpenClash/wiki/规则设置（访问控制）)
     * [外部控制](https://github.com/vernesong/OpenClash/wiki/外部控制)
-    * [订阅设置](https://github.com/vernesong/OpenClash/wiki/订阅设置)
     * [版本更新](https://github.com/vernesong/OpenClash/wiki/版本更新)
     * [SOCKS5、HTTP(S)认证信息](https://github.com/vernesong/OpenClash/wiki/SOCKS5、HTTP(S)认证信息)
     * [自定义Hosts](https://github.com/vernesong/OpenClash/wiki/自定义Hosts)
-* 配置文件页面
+* 配置文件订阅页面
+    * [订阅设置](https://github.com/vernesong/OpenClash/wiki/订阅设置)
+* 配置文件管理页面
     * [配置文件](https://github.com/vernesong/OpenClash/wiki/配置文件)
 
 
