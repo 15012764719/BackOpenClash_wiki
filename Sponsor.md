@@ -2,7 +2,7 @@
 PayPal
 </p>
 <p align="center">
-<a href="https://ko-fi.com/vernesong"><img width="300" src="https://ko-fi.com/img/Kofi_Logo_Blue.svg"> </a>
+<a href="https://ko-fi.com/vernesong"><img width="300" src="https://www.ko-fi.com/img/githubbutton_sm.svg"> </a>
 </p>
     
 ***
