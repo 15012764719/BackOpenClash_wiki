@@ -1,3 +1,13 @@
+<p align="center">
+PayPal
+</p>
+<p align="center">
+    <img width="300" src="https://ko-fi.com/img/Kofi_Logo_Blue.svg">
+</p>
+<p align="center">
+    [ko-fi](https://ko-fi.com/vernesong)
+</p>
+    
 
 <p align="center">
 比特币-BTC
