@@ -2,13 +2,9 @@
 PayPal
 </p>
 <p align="center">
-    <img width="300" src="https://ko-fi.com/img/Kofi_Logo_Blue.svg">
-</p>
-<p align="center">
-    <a href="https://ko-fi.com/vernesong"> 点击前往赞助 </a>
+<a href="https://ko-fi.com/vernesong"><img width="300" src="https://ko-fi.com/img/Kofi_Logo_Blue.svg"> </a>
 </p>
     
-
 ***
 
 <p align="center">
