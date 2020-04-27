@@ -5,7 +5,7 @@
 
 * 本插件是一个可运行在 OpenWrt 上的<a href="https://github.com/Dreamacro/clash" target="_blank"> Clash </a>客户端
 
-* 兼容 Shadowsocks、Vmess、Socks5、HTTP(S)、Snell 等协议，根据灵活的规则配置实现流量策略代理
+* 兼容 Shadowsocks、Vmess、Trojan、Socks5、HTTP(S)、Snell 等协议，根据灵活的规则配置实现流量策略代理
 
 * 您在使用过程中遇到任何功能问题，请先查阅本wiki，如仍没有得到满意答案，可以提交issues咨询
 
